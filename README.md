@@ -1,4 +1,4 @@
-# ImmersiveDatatVis-Immigration-Emmigraion-Deutschland
+# ImmersiveDatatVis-Immigration-Emigraion-Deutschland
 An Immersive VR DataVisualisation using IATK framework and Unity to make easy inferences on the Immigration and Emigration dataset of Germany.
 
 
